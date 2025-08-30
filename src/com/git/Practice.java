@@ -16,6 +16,10 @@ public class Practice {
 		System.out.println("AGAIN");
 		System.out.println("AGAIN");
 	}
+public void test4() {
+		System.out.println("Hello test----------------------------");
+		
+	}
 
 	public static void main(String[] args) {
 		System.out.println("Hello");
